@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praticando Concatenação de Strings em JavaScript</title>
+</head>
+<body>
+    <h1>Técnicas de Concatenação de Strings</h1>
+    <p>Abra o console do navegador (pressione F12 e vá na aba "Console") para ver os resultados dos exemplos de concatenação.</p>
 
+    <!-- Onde seu código JavaScript será carregado -->
+    <script src="concatenacao.js"></script>
+</body>
+</html>
